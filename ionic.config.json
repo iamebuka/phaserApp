@@ -1,0 +1,7 @@
+{
+  "name": "phaserApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
